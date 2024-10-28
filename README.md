@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Olá, meu nome e joao Vitor tenho 22 anos estou no meu primeiro ano cursando analise e desenvolvimento de sistemas, pretendo ser um desenvolvedor full stack, mas sei que ainda tenho muito o que aprender, estou me especializando em Python, HTML, Java.
+Olá, meu nome e joao Vitor tenho 23 anos estou no meu primeiro ano cursando analise e desenvolvimento de sistemas, pretendo ser um desenvolvedor full stack, mas sei que ainda tenho muito o que aprender, estou me especializando em Python, HTML, Java.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Mrviitor&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
