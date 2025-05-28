@@ -17,7 +17,3 @@ Soft Skills: Resiliência, empatia, trabalho em equipe e foco em melhoria contí
 Aprimorar meus conhecimentos em backend com Python
 
 Desenvolver projetos com impacto real
-
-Contribuir com a comunidade dev e open sourceé
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mrviitor&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
