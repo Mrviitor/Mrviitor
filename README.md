@@ -1,3 +1,6 @@
+
+![1355025](https://github.com/user-attachments/assets/abf43a72-d6fb-48a6-98ec-3380da96af1c)
+
 # 👨‍💻 Sobre mim
 
 Olá! Me chamo João Vitor, sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência com atendimento técnico, help desk, edição de vídeos e instrução de cursos, além de atuar em projetos de desenvolvimento e suporte técnico.
