@@ -37,7 +37,7 @@ Olá! Meu nome é <strong>João Vitor</strong> 👋<br>
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="https://linkedin.com/in/joaovitor" title="LinkedIn">
+  <a href="www.linkedin.com/in/joão-vitorsa/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
